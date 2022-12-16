@@ -1,0 +1,128 @@
+body{
+    background-color: rgb(65, 70, 64);
+}
+
+.titulo{
+    background-color: rgba(233, 134, 41, 0.904);
+    height: 25%;
+    width: 100%;
+    border: 5px solid black;
+}
+
+.img{
+    width: 15%;
+    height: 10%; 
+    margin-top: 1em;
+    margin-left: 1em;
+    margin-bottom: 1em;
+}
+.uno{
+    background-color: rgb(221, 250, 58);
+    float: right;
+    width: 17%;
+    height: 6%; 
+    margin-bottom:px;
+    margin-top: 13.7em;
+    border: 2px solid rgb(0, 0, 0);
+       
+}
+
+
+
+/* .dos{
+    background-color: rgb(184, 204, 73); 
+}
+.tres{
+    background-color: rgb(184, 204, 73); 
+}
+.cua{
+    background-color: rgb(184, 204, 73); 
+} */
+.primera{
+    width: 30%;
+    height: 1055px;
+    background-color: rgb(107, 101, 202);
+    float: left;
+    margin-top: 29px;
+    border: 1px solid black;
+}
+.imf{
+    width: 34%;
+    height: 195px; 
+    margin-top: 2em;
+    margin-left: 1em;
+padding-top: 1em;
+padding-left:2em ;
+padding-bottom: 2em;
+}
+
+
+.segunda{
+    width: 68%;
+    height: 1055px;
+    background-color: rgb(65, 70, 64);
+    float: right;
+    padding-top: 29px;
+}
+
+.lore{
+    width: 100%;
+    height: 48px;
+    background-color: rgb(33, 240, 160);
+    padding-bottom: 15em;
+    padding-left: 2em ;
+    padding-top: 4em;
+    
+}
+
+.enter{
+    width: 20%;
+    height: 20%;
+    float: right;
+}
+
+.apart1{
+    background-color: rgb(15, 15, 221);
+    float: left;
+    width: 39%;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-top: 1px solid black;
+}
+
+.apart2{
+    background-color: rgb(33, 240, 160);
+    float: left;
+    width: 59%;
+    height: 1055px;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+.imp{
+    width: 95%;
+    height: 250px; 
+    margin-top: 1em;
+    margin-left: 1em;
+    margin-bottom: 1em;
+    padding-bottom: 5em;
+
+}
+
+p{
+ float: right;
+ margin-right: 8em;
+ padding-top: 9em;
+ 
+}
+
+.ta{
+    margin-left: 3em;
+    margin-right: 10em; 
+    margin-top: 5em;
+    
+}
+.t2{
+    width: 50%;
+}
